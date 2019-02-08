@@ -35,7 +35,6 @@ The result file of the evolutionary run will be placed in the 'results' folder. 
    robot_move(maze, start, target, p, draw_walk=True)
 ```
 
-This will create a file in folder 'mazes' called 'maze-path.png'
+This will create a file in folder 'mazes' called 'maze-path.png':
 
-Inline-style: 
-![alt text](https://github.com/EpistasisLab/SAFE/blob/master/maze/maze-path.png "maze-path")
+[maze-path](https://github.com/EpistasisLab/SAFE/blob/master/maze/maze-path.png "maze-path")
