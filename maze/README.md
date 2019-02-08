@@ -37,4 +37,4 @@ The result file of the evolutionary run will be placed in the 'results' folder. 
 
 This will create a file in folder 'mazes' called 'maze-path.png':
 
-![maze-path](https://github.com/EpistasisLab/SAFE/blob/master/maze/maze-path.png "maze-path")
+![maze-path](https://github.com/EpistasisLab/SAFE/blob/master/maze/mazes/maze-path.png "maze-path")
