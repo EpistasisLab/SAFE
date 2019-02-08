@@ -1,4 +1,4 @@
-The maze experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and fitness evolution (SAFE): Coevolving solutions and their objective functions", in Genetic Programming - 22nd European Conference, EuroGP 2019, L. Sekanina et al. Eds, 2019.
+The evolutionary maze experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and fitness evolution (SAFE): Coevolving solutions and their objective functions", in Genetic Programming -- 22nd European Conference, EuroGP 2019, L. Sekanina et al. Eds, 2019.
 
 * safe.py: the main evolutionary algorithm
 * general.py: additional general functions, also used in experiments other than robot
@@ -37,4 +37,4 @@ The result file of the evolutionary run will be placed in the 'results' folder. 
 
 This will create a file in folder 'mazes' called 'maze-path.png':
 
-[maze-path](https://github.com/EpistasisLab/SAFE/blob/master/maze/maze-path.png "maze-path")
+![maze-path](https://github.com/EpistasisLab/SAFE/blob/master/maze/maze-path.png "maze-path")
