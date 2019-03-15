@@ -8,7 +8,7 @@ The evolutionary multiobjective experiments described in M. Sipper, J. H. Moore,
 
 To run: 
 1. set parameters in `general.py` (GENERATIONS, SOLUTION_POP_SIZE, OBJECTIVE_POP_SIZE, etc.)    
-2. run safe.py directly, or from command line: `python safe.py [algorithm] MultiObj [func_name]`    
+2. run safe.py directly, or from command line: `python safe.py [StandardEA/Novelty/SAFE/Random] MultiObj [ZDT1/ZDT2/ZDT3/ZDT4/ZDT6]`    
 
 At the end of a run the `results` folder will contain a csv file and a text file, e.g.:   
 `SAFE_MultiObj_ZDT1_PDBTCC.csv`   
