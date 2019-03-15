@@ -1,4 +1,4 @@
-The evolutionary maze experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, [Solution and fitness evolution (SAFE): Coevolving solutions and their objective functions](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view), in Genetic Programming -- 22nd European Conference, EuroGP 2019, L. Sekanina et al. Eds, 2019.
+The evolutionary maze experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and fitness evolution (SAFE): Coevolving solutions and their objective functions", in _Genetic Programming -- 22nd European Conference_, EuroGP 2019, L. Sekanina et al. Eds, 2019.
 
 * safe.py: the main evolutionary algorithm
 * general.py: additional general functions, also used in experiments other than robot
