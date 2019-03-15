@@ -171,7 +171,7 @@ def main():
     gl.myprint(fname[8:-4])
     
     if problem == Problem.MultiObj:
-        pareto_fname = RESULTS_FOLDER + str(algo) + "_" + "front_" + fn + "_" + rnd + ".txt"
+        pareto_fname = RESULTS_FOLDER + algo.name + "_" + "front_" + fn + "_" + rnd + ".txt"
 
     with open(Path(fname),'w') as f: 
         header = "gen,best_dist,best_sol"
