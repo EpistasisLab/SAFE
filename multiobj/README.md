@@ -11,8 +11,8 @@ To run:
 2. run safe.py directly, or from command line: `python safe.py [StandardEA/Novelty/SAFE/Random] MultiObj [ZDT1/ZDT2/ZDT3/ZDT4/ZDT6]`    
 
 At the end of a run the `results` folder will contain a csv file and a text file, e.g.:   
-`SAFE_MultiObj_ZDT1_PDBTCC.csv`   
-`SAFE_MultiObj_ZDT1_PDBTCC.txt`   
+`SAFE_MultiObj_ZDT1_VBHEPM.csv`   
+`Algorithms.SAFE_front_MultiObj_ZDT1_VBHEPM.txt`   
 
 The csv contains a summary of the results. The txt file contains the fronts found (one per experiment) and their _igd_ values.
 
