@@ -12,8 +12,8 @@ from os import environ
 
 # evolution
 NUM_EXPERIMENTS = 1
-GENERATIONS = 3000
-SOLUTION_POP_SIZE = 500
+GENERATIONS = 500#3000
+SOLUTION_POP_SIZE = 200#500
 TOURNAMENT_SIZE = 5
 ELITISM = 2 # num elite individuals to copy to next gen, must be even
 XO_RATE = 0.8
@@ -25,7 +25,7 @@ KNN = 15 # k nearest neighbors
 ARCHIVE_SIZE = 1000
 
 # SAFE
-OBJECTIVE_POP_SIZE = 150
+OBJECTIVE_POP_SIZE = 50#150
 OBJECTIVE_PROB_MUTATION = 0.4
 NUM_OBJECTIVE_PARAMS = 2
 
