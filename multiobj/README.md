@@ -14,7 +14,7 @@ At the end of a run the `results` folder will contain a csv file and a text file
 `SAFE_MultiObj_ZDT1_PDBTCC.csv`   
 `SAFE_MultiObj_ZDT1_PDBTCC.txt`   
 
-The csv contains a summary of the results. The txt file contains the fronts found and their _igd_ values.
+The csv contains a summary of the results. The txt file contains the fronts found (one per experiment) and their _igd_ values.
 
 To plot an evolved Pareto front simply copy front values from the txt file -- `f1` and `f2` lists -- into `plot_front.py` and in that file also set `func_name` to the correct problem, e.g., 'ZDT1'. Then run `plot_front.py` to generate a figure such as this:   
 
