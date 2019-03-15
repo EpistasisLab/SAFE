@@ -18,4 +18,4 @@ The csv contains a summary of the results. The txt file contains the fronts foun
 
 To plot an evolved Pareto front simply copy front values from the txt file -- `f1` and `f2` lists -- into `plot_front.py` and in that file also set `func_name` to the correct problem, e.g., 'ZDT1'. Then run `plot_front.py` to generate a figure such as this:   
 
-![front]()
+![front](https://github.com/EpistasisLab/SAFE/blob/master/multiobj/results/zdt1_evolved_front.png)
