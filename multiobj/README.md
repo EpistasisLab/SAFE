@@ -1,4 +1,4 @@
-The evolutionary multiobjective experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and Fitness Evolution (SAFE):A Study of Multiobjective Problems", in _Proceedings of 2019 IEEE Congress On Evolutionary Computation_, 2019.
+The evolutionary multiobjective experiments described in M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and Fitness Evolution (SAFE): A Study of Multiobjective Problems", in _Proceedings of 2019 IEEE Congress On Evolutionary Computation_, 2019.
 
 * `safe.py`: the main evolutionary algorithm
 * `general.py`: additional general functions, also used in experiments other than robot
