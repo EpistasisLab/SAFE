@@ -4,7 +4,7 @@ The evolutionary maze experiments described in M. Sipper, J. H. Moore, and R. J.
 * `general.py`: additional general functions, also used in experiments other than robot
 * `robot.py`: the robot simulator
 
-To run: 
+To run:   
 1. set parameters in `general.py` (NUM_EXPERIMENTS, GENERATIONS, etc.)
 2. run `safe.py` directly, or from command line: `safe [StandardEA/Novelty/SAFE/Random] RobotMaze [maze1/maze2]`
 
