@@ -8,7 +8,7 @@ To run:
 1. set parameters in `general.py` (NUM_EXPERIMENTS, GENERATIONS, etc.)
 2. run `safe.py` directly, or from command line: `safe [StandardEA/Novelty/SAFE/Random] RobotMaze [maze1/maze2]`
 
-There are 2 maze files in folder 'mazes':  `maze1.txt`, `maze2.txt`    
+There are 2 maze files in folder `mazes`:  `maze1.txt`, `maze2.txt`    
 
 The result file of the evolutionary run will be placed in the `results` folder. For example, one experiment using maze1 might generate the following output:
 ```
