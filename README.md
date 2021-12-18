@@ -6,7 +6,7 @@ Papers are available through [Moshe Sipper's website](http://www.moshesipper.com
 
 * `multiobj`: The code accompanying the paper, M. Sipper, J. H. Moore, and R. J. Urbanowicz, "Solution and Fitness Evolution (SAFE): A Study of Multiobjective Problems", in _Proceedings of 2019 IEEE Congress On Evolutionary Computation_, 2019.
 
-If you wish to cite the papers:
+If you wish to cite this work:
 ```
 @misc{sipper2018know,
   title={To know the objective is not (necessarily) to know the objective function},
